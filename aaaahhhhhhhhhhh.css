@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+body{
+    min-height: 325vh;
+    max-width: 800px;
+    background-image: url("https://imgcdn.stablediffusionweb.com/2024/12/18/865315ff-a820-4a92-852b-12d8118b1dd2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h2, li, h1, th, td{
+   color: #ffffff;
+   font-family: impact; 
+}
+table {
+    border: 3px solid rgb(255, 255, 255); /* Sets a 1px solid black border around the table */
+    border-collapse: collapse; /* Optional: Collapses adjacent cell borders into a single border */
+  }
+  
+  /* Optional: To add borders to individual cells as well */
+  th, td {
+    border: 3px solid rgb(255, 255, 255);
+  }
