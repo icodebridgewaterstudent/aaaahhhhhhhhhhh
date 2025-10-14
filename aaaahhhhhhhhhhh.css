@@ -25,8 +25,6 @@ table {
     border: 3px solid rgb(255, 255, 255); /* Sets a 1px solid black border around the table */
     border-collapse: collapse; /* Optional: Collapses adjacent cell borders into a single border */
   }
-  
-  /* Optional: To add borders to individual cells as well */
   th, td {
-    border: 3px solid rgb(255, 255, 255);
+    border: 3px solid rgb(255, 255, 255); 
   }
